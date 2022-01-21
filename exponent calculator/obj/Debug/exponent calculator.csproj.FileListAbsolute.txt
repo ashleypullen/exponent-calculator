@@ -1,0 +1,10 @@
+C:\Users\ashle\source\repos\exponent calculator\exponent calculator\bin\Debug\exponent calculator.exe.config
+C:\Users\ashle\source\repos\exponent calculator\exponent calculator\bin\Debug\exponent calculator.exe
+C:\Users\ashle\source\repos\exponent calculator\exponent calculator\bin\Debug\exponent calculator.pdb
+C:\Users\ashle\source\repos\exponent calculator\exponent calculator\obj\Debug\exponent calculator.csprojAssemblyReference.cache
+C:\Users\ashle\source\repos\exponent calculator\exponent calculator\obj\Debug\exponent_calculator.Form1.resources
+C:\Users\ashle\source\repos\exponent calculator\exponent calculator\obj\Debug\exponent_calculator.Properties.Resources.resources
+C:\Users\ashle\source\repos\exponent calculator\exponent calculator\obj\Debug\exponent calculator.csproj.GenerateResource.cache
+C:\Users\ashle\source\repos\exponent calculator\exponent calculator\obj\Debug\exponent calculator.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\exponent calculator\exponent calculator\obj\Debug\exponent calculator.exe
+C:\Users\ashle\source\repos\exponent calculator\exponent calculator\obj\Debug\exponent calculator.pdb
